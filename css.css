@@ -1,0 +1,45 @@
+ul li a
+{
+	background-color:red;
+	color:white;
+}
+
+div #about_blue 
+{
+	border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    background-color: #6495ED;
+    margin: 20px;
+}
+
+
+div #about_yellow 
+{
+	border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    background-color: #FFEBCD;
+    margin: 20px;
+}
+
+div #about_blue ul li 
+{
+	color:blue;
+	font-size:16;
+	font:bold;
+}
+
+div #about_yellow ul li 
+{
+	
+	color:orange;
+	font-size:16;
+	font:bold;
+}
+
+div .important 
+{
+	font-weight:bold;
+	font-size: 16px;
+}
